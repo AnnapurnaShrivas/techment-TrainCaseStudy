@@ -1,0 +1,12 @@
+PNR:        : BM_20210816_100
+Train no    : 1003
+Train Name  : Udyan
+Express
+From        : Bangalore
+To          : Mumbai
+Travel Date : Thu Aug 18 00:00:00 IST 2022
+Passengers  : 
+
+Name : priyanka Age: 22 Gender: f Fare : 375.0
+
+ Total Price : 750.0

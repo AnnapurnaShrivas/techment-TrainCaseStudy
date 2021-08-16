@@ -1,0 +1,13 @@
+PNR:        : BC_20210816_102
+Train no    : 1005
+Train Name  : Brindavan
+Express
+From        : Bangalore
+To          : Chennai
+Travel Date : Mon Aug 16 00:00:00 IST 2021
+Passengers  : 
+
+Name : annapurna Age: 24 Gender: f Fare : 250.0
+Name : sachin Age: 11 Gender: m Fare : 500.0
+
+ Total Price : 1500.0

@@ -1,0 +1,12 @@
+PNR:        : MB_20210816_101
+Train no    : 1004
+Train Name  : Udyan
+Express
+From        : Mumbai
+To          : Bangalore
+Travel Date : Wed Sep 15 00:00:00 IST 2021
+Passengers  : 
+
+Name : hemraj Age: 17 Gender: m Fare : 1500.0
+
+ Total Price : 3000.0
